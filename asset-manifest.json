@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portfolio-React-Website/static/css/main.d17ab3ed.css",
+    "main.js": "/Portfolio-React-Website/static/js/main.f9a7f207.js",
+    "static/media/logo.JPG": "/Portfolio-React-Website/static/media/logo.765650b462cb44538891.JPG",
+    "static/media/finedine.png": "/Portfolio-React-Website/static/media/finedine.27531d620867ef7d6812.png",
+    "static/media/estate.png": "/Portfolio-React-Website/static/media/estate.106c40403bd22e6e6f30.png",
+    "static/media/fiverr.png": "/Portfolio-React-Website/static/media/fiverr.b098f24e3835663b03c3.png",
+    "static/media/Prakhar_Sharma.pdf": "/Portfolio-React-Website/static/media/Prakhar_Sharma.384dcaf9363ff1842b6f.pdf",
+    "static/media/about.jpg": "/Portfolio-React-Website/static/media/about.658039035680c36cb4d9.jpg",
+    "static/media/testimonial3.png": "/Portfolio-React-Website/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
+    "static/media/testimonial2.png": "/Portfolio-React-Website/static/media/testimonial2.39a53f7f092f07f5bceb.png",
+    "static/media/testimonial1.png": "/Portfolio-React-Website/static/media/testimonial1.89079c1d25f2c94ceb89.png",
+    "index.html": "/Portfolio-React-Website/index.html",
+    "main.d17ab3ed.css.map": "/Portfolio-React-Website/static/css/main.d17ab3ed.css.map",
+    "main.f9a7f207.js.map": "/Portfolio-React-Website/static/js/main.f9a7f207.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d17ab3ed.css",
+    "static/js/main.f9a7f207.js"
+  ]
+}
